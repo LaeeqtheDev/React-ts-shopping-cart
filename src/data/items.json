@@ -1,0 +1,20 @@
+[
+    {
+        "id" : 1,
+        "name" : "Pixel",
+        "price" : 50.99,
+        "imgUrl": "/public/imgs/pixel1.jpg"
+    },
+    {
+        "id" : 2,
+        "name" : "Basus",
+        "price" : 50.99,
+        "imgUrl": "/public/imgs/basus.webp"
+    },
+    {
+        "id" : 3,
+        "name" : "Apple",
+        "price" : 50.99,
+        "imgUrl": "/public/imgs/apple 3.webp"
+    }
+]
